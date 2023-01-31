@@ -18,7 +18,7 @@ If you work on Linux/Ubuntu then you have to install Tkinter module on your mach
 
 <br>
 
-<h1>Prerequisite Digital Clock</h1>
+<h1>Prerequisite for Digital Clock</h1>
 
 For developing a simple GUI calculator in python you must have to prior knowledge of following –<br>
 
