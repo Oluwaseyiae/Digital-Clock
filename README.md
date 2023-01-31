@@ -24,7 +24,8 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 
 1. Tkinter<br>
 
-2. Lambda<br>
+2. Time<br>
+3. Datetime<br>
 
 <br>
 
@@ -37,11 +38,11 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 
 1. Importing Tkinter module<br>
 
-2. Creating the main interface(window for calculator)<br>
+2. Creating the main interface(window for digital clock)<br>
 
-3. Adding any number of widgets to the main interface<br>
+3. Create a function and adding all the properties to the main interface.<br>
 
-4. Applying the event trigger on widgets
+4. Call the function.
 
 <br>
 
