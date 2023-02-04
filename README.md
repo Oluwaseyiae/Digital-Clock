@@ -29,7 +29,7 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 
 <br>
 
-
+<img src="images/cal-1.png"><img src="images/cal-2.png">
 
 
 
@@ -60,7 +60,7 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 
 </p>
 
-<img src="images/cal-1.png"><img src="images/cal-2.png">
+
 
 <br>
 
